@@ -39,4 +39,3 @@ int main() {
     }
     return 0;
 }
-//https://gist.githubusercontent.com/5ynatra/24301454f4137688b563/raw/f35f84ddce95094560c99bb27931e9540851dc9a/hook.c
